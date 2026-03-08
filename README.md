@@ -1,4 +1,4 @@
-# Color-detection-robot
+
 # Cozmo Cube Detection and Tracker
 
 This project enables an Anki Cozmo robot to autonomously search for, track, and drive toward a target object (a cube) using OpenCV and the Cozmo Python SDK. The robot uses a proportional control algorithm to smoothly steer toward the cube and stops automatically when it determines it is close enough.
